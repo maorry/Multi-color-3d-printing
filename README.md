@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Automatic multicolor printing
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+With only one stepper motor and one hotend.
 
 </header>
 
