@@ -9,6 +9,8 @@
 
 # Automatic multicolor printing
 
+I always wanted to print multi color prints but it was always out of my reach, 
+The past year I've been working on a project the will change everything you know about multi color printing.
 With only one stepper motor and one hotend.
 
 </header>
