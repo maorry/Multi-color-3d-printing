@@ -21,12 +21,27 @@ The past year I've been working on a project that will change everything you kno
 
 The idea is to have a piece that holds the filaments (pictures 12 and 9), this part is placed on an aluminum profile that holds several of them (depending on the length of the profile and the length of movement on the X axis), the second part is the extruder (picture 11).
 The two parts are connected together by magnets (you can see in the pictures).
-The third part has a ball bearing that presses the filament with a spring.
+The third part (picture 6) has a ball bearing that presses the filament with a spring.
 
 ## So how does it actually work?
 
+Like any other tool changer but with a twist.
 
+1. The desired color is selected.
+2. The extruder moves towards the part that holds the filament
+3. A piece of rod goes into the middle hole in the third part.
+4. The extruder moves to the side so that the third part moves and thus creates a gap between the gear and the ball bearing.
+5. Once there is a gap, the extruder moves forward towards the filament holder so that it fits exactly in the gap created, held by magnets to the extruder.
+6. The extruder moves a little to the side so that the filament holder detaches from the aluminum profile that holds it and at the same time releases the third part so that it presses on the filament.
+7. The extruder moves back until it is released from the rod that goes into the third part.
+8. Continues printing.
 
+### There are 2 important sensors on the extruder:
+
+1. A sensor that transmits whether a filament holder is present on the extruder or not.
+2. A sensor that transmits when the filament holder can be removed from the extruder and when not.
+
+   
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
