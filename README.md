@@ -17,7 +17,15 @@ The past year I've been working on a project that will change everything you kno
 
 </header>
 
-The idea is to have a piece to hold the filaments (picture # )
+## The idea.
+
+The idea is to have a piece that holds the filaments (pictures 12 and 9), this part is placed on an aluminum profile that holds several of them (depending on the length of the profile and the length of movement on the X axis), the second part is the extruder (picture 11).
+The two parts are connected together by magnets (you can see in the pictures).
+The third part has a ball bearing that presses the filament with a spring.
+
+## So how does it actually work?
+
+
 
 <!--
   <<< Author notes: Step 1 >>>
