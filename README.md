@@ -31,10 +31,11 @@ Like any other tool changer but with a twist.
 2. The extruder moves towards the part that holds the filament
 3. A piece of rod goes into the middle hole in the third part.
 4. The extruder moves to the side so that the third part moves and thus creates a gap between the gear and the ball bearing.
-5. Once there is a gap, the extruder moves forward towards the filament holder so that it fits exactly in the gap created, held by magnets to the extruder.
+5. Once there is a gap, the extruder moves forward towards the filament holder so that it fits exactly in the gap created and is held by magnets to the extruder.
 6. The extruder moves a little to the side so that the filament holder detaches from the aluminum profile that holds it and at the same time releases the third part so that it presses on the filament.
 7. The extruder moves back until it is released from the rod that goes into the third part.
-8. Continues printing.
+8. The extruder goes to a certain location to perform a purge of a certain predetermined length, then cleans the tip of plastic.
+9. Continues printing.
 
 ### There are 2 important sensors on the extruder:
 
