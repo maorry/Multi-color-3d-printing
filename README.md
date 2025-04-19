@@ -42,7 +42,7 @@ Like any other tool changer but with a twist.
 1. A sensor that transmits whether a filament holder is present on the extruder or not.
 2. A sensor that transmits when the filament holder can be removed from the extruder and when not.
 
-# v2.0 is almost done and will be uploaded soon.   
+# v2.0 is done check out the video.   
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
