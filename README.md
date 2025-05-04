@@ -44,7 +44,7 @@ Like any other tool changer but with a twist.
 
 # v2.0 is done check out the video.   
 
-# working on v3.0 will be done soon.
+# working on v3.0 will be done and uploaded soon.
 
 youtube channel: https://youtu.be/AegX-t8LYQk
 <!--
